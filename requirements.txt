@@ -1,7 +1,14 @@
 fastapi
 uvicorn
+pydantic
+requests
 torch
 torch-geometric
+torchvision
+torchaudio
 rdkit
 numpy==1.26.4
+pandas
 pillow
+streamlit
+selfies
