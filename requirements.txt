@@ -2,6 +2,6 @@ fastapi
 uvicorn
 torch
 torch-geometric
-rdkit-pypi
+rdkit
 numpy==1.26.4
 pillow
